@@ -9,16 +9,18 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    // variavel criada por ju
+    var ju:String = "Bora fazer dar conflito"
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
     var teste = "Eae"
 
-    func conflito( parametro1: String, parametro3: String ) {
+    func conflito( parametro1: String, parametro2: String, parametro3: String ) {
         print(parametro1)
     }
 }
-
