@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     // variavel criada por ju
-    var ju:String = "Bora fazer dar conflito"
+    var ju:String = "Bora fadsadsadszer dar conflito"
 
     override func viewDidLoad() {
         super.viewDidLoad()
