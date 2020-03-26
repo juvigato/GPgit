@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     
     var teste = "Eae"
 
-    func conflito( parametro1: String) {
+    func conflito( parametro1: String, parametro2: String) {
         print(parametro1)
     }
 }
