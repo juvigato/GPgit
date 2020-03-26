@@ -17,4 +17,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
+    
+    var teste = "Eae"
+
+    func conflito( parametro1: String) {
+        print(parametro1)
+    }
 }
